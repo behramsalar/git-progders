@@ -1,0 +1,1 @@
+print('programlama ile deney tasarımı ve veri analizi')
